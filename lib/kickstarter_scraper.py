@@ -26,6 +26,6 @@ def create_project_dict():
     # return the projects dictionary
 
     return projects
-
+#
 projects = create_project_dict()
 print(projects)
